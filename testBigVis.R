@@ -17,3 +17,4 @@ DT <- fread(input = "facturas_categorias_dep_header.csv",
                                                  "numeric","numeric","numeric","integer",
                                                  "integer","integer","integer","character"))
 
+require(rCharts)
